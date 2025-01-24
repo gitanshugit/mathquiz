@@ -1,0 +1,18 @@
+* {    
+    box-sizing:border-box;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+button {
+    padding:10px 15px;
+    width:100px;
+    font-size:28px;
+}
+p {
+    font-size:22px;
+}
+#questions-remaining {
+    font-weight:bold;
+    color:blue;
+}
